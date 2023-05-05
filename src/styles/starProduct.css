@@ -16,11 +16,8 @@
 .starProduct >div:first-child{
     text-align: right;
     width: 36%;
-    
-   
+       
 }
-
-
 
 .starProduct img{
     transition: all 0.5s;
